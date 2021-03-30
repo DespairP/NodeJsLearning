@@ -1,2 +1,1 @@
-hello！node.js！
-README!
+-- hello！node.js！
